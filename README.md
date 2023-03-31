@@ -12,7 +12,7 @@ Los ejemplos y ejercicios han sido desarrollados utilizando las siguientes tecno
 
 ## Uso
 
-Para utilizar los ejemplos y ejercicios, simplemente abra el archivo HTML correspondiente en su navegador web preferido.
+Para ver los ejemplos y ejercicios, simplemente acceda al siguiente enlace: https://dreschpedro.github.io/eventos_js/
 
 ## Contribución
 
